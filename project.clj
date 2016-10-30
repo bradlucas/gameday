@@ -1,5 +1,5 @@
-(defproject gameday "1.0.0"
-  :description "FIXME: write description"
+(defproject com.bradlucas/gameday "1.0.0"
+  :description "gameday, a Clojure cmdline application"
   :url "http://example.com/FIXME"
   :license {:name "MIT"
             :url "http://opensource.org/licenses/MIT"}
