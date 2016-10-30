@@ -22,6 +22,11 @@ This repo contains some of the code I deleved for that project. It was nice to s
 - Get the third game in the shedule for 9/24/2016
 - java -jar target/gameday-1.0.0-standalone.jar -g 9 24 2016 3
 
+## Versions
+
+### 1.0.0
+
+- Initial release. Get schedule and get game only
 
 ## License
 
