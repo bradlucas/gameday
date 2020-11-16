@@ -1,5 +1,7 @@
 # gameday
 
+[![Clojars Project](https://img.shields.io/clojars/v/com.bradlucas/gameday.svg)](https://clojars.org/com.bradlucas/gameday)
+
 gameday, a Clojure cmdline application
 
 ## Back story
@@ -30,7 +32,7 @@ This repo contains some of the code I deleved for that project. It was nice to s
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Brad Lucas
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
